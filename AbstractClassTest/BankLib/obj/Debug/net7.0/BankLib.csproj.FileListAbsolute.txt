@@ -1,0 +1,11 @@
+/home/cdac/Samples/DotNet/Language/AbstractClassTest/BankLib/bin/Debug/net7.0/BankLib.deps.json
+/home/cdac/Samples/DotNet/Language/AbstractClassTest/BankLib/bin/Debug/net7.0/BankLib.dll
+/home/cdac/Samples/DotNet/Language/AbstractClassTest/BankLib/bin/Debug/net7.0/BankLib.pdb
+/home/cdac/Samples/DotNet/Language/AbstractClassTest/BankLib/obj/Debug/net7.0/BankLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/Samples/DotNet/Language/AbstractClassTest/BankLib/obj/Debug/net7.0/BankLib.AssemblyInfoInputs.cache
+/home/cdac/Samples/DotNet/Language/AbstractClassTest/BankLib/obj/Debug/net7.0/BankLib.AssemblyInfo.cs
+/home/cdac/Samples/DotNet/Language/AbstractClassTest/BankLib/obj/Debug/net7.0/BankLib.csproj.CoreCompileInputs.cache
+/home/cdac/Samples/DotNet/Language/AbstractClassTest/BankLib/obj/Debug/net7.0/BankLib.dll
+/home/cdac/Samples/DotNet/Language/AbstractClassTest/BankLib/obj/Debug/net7.0/refint/BankLib.dll
+/home/cdac/Samples/DotNet/Language/AbstractClassTest/BankLib/obj/Debug/net7.0/BankLib.pdb
+/home/cdac/Samples/DotNet/Language/AbstractClassTest/BankLib/obj/Debug/net7.0/ref/BankLib.dll
